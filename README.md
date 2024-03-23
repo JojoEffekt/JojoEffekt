@@ -14,6 +14,6 @@
 ### Stats
 ![](https://github-readme-stats.vercel.app/api?username=JojoEffekt&show_icons=true&theme=ambient_gradient) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JojoEffekt&theme=ambient_gradient&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly&card_width=300)](https://git.io/streak-stats)
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JojoEffekt&layout=compact&theme=ambient_gradient)
+![Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=JojoEffekt&layout=compact&theme=ambient_gradient)
 
 ![](https://komarev.com/ghpvc/?username=JojoEffekt&style=flat-square&color=347bd1)
