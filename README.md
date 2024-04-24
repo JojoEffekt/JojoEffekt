@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,unity,pycharm)](https://skillicons.dev)
 
 ### Stats
-![](https://github-readme-stats.vercel.app/api?username=JojoEffekt&show_icons=true&theme=ambient_gradient) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JojoEffekt&theme=ambient_gradient&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly&card_width=300)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=JojoEffekt&show_icons=true&theme=ambient_gradient) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JojoEffekt&theme=ambient_gradient&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=300)](https://git.io/streak-stats)
 
 ![Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=JojoEffekt&layout=compact&theme=ambient_gradient)
 
