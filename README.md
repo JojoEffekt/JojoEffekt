@@ -4,12 +4,12 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JojoEffekt&repo=GGC-Remake-SP&theme=ambient_gradient)
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,py)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JojoEffekt&layout=compact&hide=HLSL,ShaderLab&theme=ambient_gradient)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,unity,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,unity,pycharm,dotnet)](https://skillicons.dev)
 
 ### Stats
 ![](https://github-readme-stats.vercel.app/api?username=JojoEffekt&show_icons=true&theme=ambient_gradient) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JojoEffekt&theme=ambient_gradient&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=300)](https://git.io/streak-stats)
